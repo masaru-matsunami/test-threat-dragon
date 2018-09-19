@@ -1,6 +1,8 @@
 {
   "summary": {
-    "title": "TD Test"
+    "title": "TD Test",
+    "owner": "OWN",
+    "description": "High Level System Description"
   },
   "detail": {
     "contributors": [],
@@ -10,6 +12,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "REV"
   }
 }
